@@ -1,0 +1,35 @@
+
+/* START PAGE */
+body{
+ 
+    background: url(photo/Startbackground.jpg)  center top no-repeat;
+    background-size: cover;
+}
+
+h1{
+    margin-top: 100px;
+    font-family: 'Silkscreen',sans-serif;
+    text-shadow: 2px 2px 3px rgb(8, 8, 8);
+    text-align: center;
+    font-size: 40px;
+    color: #DF5873;
+}
+
+.playButton{
+    background-color: #DF5873;
+    color: white;
+    border: none;
+    border-radius: 20px;
+    padding: 7px 16px;
+    text-shadow: 2px 2px 3px rgb(8, 8, 8);;
+    font-family: 'Silkscreen',sans-serif;
+    font-size: large;
+    font-weight: bold;
+    margin-top: 270px;
+    margin-left: 115px;
+}
+
+.playButton:hover{
+    background-color: #e1778c;
+}
+/* END OF START PAGE */
